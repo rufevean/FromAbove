@@ -1,0 +1,35 @@
+.menuWrapper {
+    height: 6.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: solid 1px black;
+    padding: 0 2.5rem;
+    background: #1B2F4D;
+}
+
+span {
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.625rem;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+button {
+    border: none;
+    color: white;
+    background: #419EC6;
+    border-radius: 8px;
+    padding: 0.25rem 2rem;
+    margin-left: 1rem;
+}
